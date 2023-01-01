@@ -1,0 +1,15 @@
+h1 {
+  font-size: 45px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 0px;
+}
+
+h1,
+h2 {
+  text-align: left;
+}
